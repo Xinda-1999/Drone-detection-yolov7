@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.9.12",
+    "heartbeatAt": "2023-03-23T01:11:54.211588",
+    "startedAt": "2023-03-23T01:11:52.234228",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\jm\\Desktop\\worklab\\yolov7\\train.py",
+    "codePath": "train.py",
+    "host": "DESKTOP-RUTEDVK",
+    "username": "jm",
+    "executable": "C:\\Users\\jm\\anaconda3\\python.exe",
+    "cpu_count": 24,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 3200.0,
+        "min": 0.0,
+        "max": 3200.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3200.0,
+            "min": 0.0,
+            "max": 3200.0
+        }
+    ],
+    "disk": {
+        "total": 1906.9260025024414,
+        "used": 1356.061782836914
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 31.714622497558594
+    }
+}
